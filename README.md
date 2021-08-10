@@ -5,9 +5,9 @@
 
 💻 Desenvolvedor Java Junior Full Stack em formação 🚀
 
-📍 Sou de São Paulo - SP. 
-
 🎓 Formado em Gestão de Tecnologia da Informação.
+
+📍 Sou de São Paulo - SP. 
 
 ⚡ Apaixonado pela criação! 
 
