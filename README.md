@@ -7,6 +7,8 @@
 
 📍 Sou de São Paulo - SP. 
 
+🎓 Formado em Gestão de Tecnologia da Informação.
+
 ⚡ Apaixonado pela criação! 
 
 
