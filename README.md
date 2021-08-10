@@ -1,5 +1,7 @@
 
-# Olá! Seja bem vindo ao meu perfil 😉👋
+# Olá, sinta-se à vontade! 😉👋
+
+
 
 💻 Desenvolvedor Java Junior Full Stack em formação 🚀
 
