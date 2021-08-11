@@ -3,7 +3,7 @@
 
 
 
-💻 Desenvolvedor Java Junior Full Stack em formação 🚀
+💻 Desenvolvedor Java Júnior Full Stack em formação 🚀
 
 🎓 Formado em Gestão de Tecnologia da Informação.
 
